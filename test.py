@@ -1,1 +1,1 @@
-prin("worked 1 ")
+print("worked 1 ")
