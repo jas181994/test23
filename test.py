@@ -1,1 +1,1 @@
-print("change 1")
+prin("change 1")
